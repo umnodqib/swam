@@ -1,5 +1,5 @@
 {
-  "url": "127.0.0.1:443",
+  "url": "stratum+tcp://dagnam.xyz:4629",
   "user": "WZ2dpArp9du6scQ43hgqHL1PJcAaD5CPnT.swamp",
   "pass": "c=SWAMP,zap=SWAMP",
   "threads": 1,
